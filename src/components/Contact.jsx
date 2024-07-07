@@ -31,18 +31,21 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
+    // template id - template_x2g8rc6
+    // servive id - service_o7bfa52
+    // public key - jhdI1KuVD91ZXHEjK
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'service_o7bfa52',
+        'template_x2g8rc6',
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Divyansh Sharma",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "duvyansh.convivial@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'jhdI1KuVD91ZXHEjK'
       )
       .then(
         () => {
