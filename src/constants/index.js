@@ -21,7 +21,7 @@ import {
   threads,
   carrent,
   jobit,
-  tripguide,
+  resume_builder,
   threejs,
   chatz,
 } from "../assets";
@@ -158,7 +158,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Divyansh proved me wrong.",
     name: "Disha Goel",
     designation: "Data Analyst",
     company: "",
@@ -166,7 +166,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Divyansh does.",
     name: "Nishita Jagdale",
     designation: "Web Developer",
     company: "",
@@ -174,7 +174,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Divyansh optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Aditya Sharma",
     designation: "Web Developer",
     company: "",
@@ -226,25 +226,25 @@ const projects = [
     source_code_link: "https://github.com/Divyansh10Sharma/Chat_App.git",
   },
   {
-    name: "Trip Guide",
+    name: "Resume Builder",
     description:
-      "A comprehensive travel booking platform that allows users to search and book hotels, and rental properties, and offers curated recommendations for popular destinations.",
+      "Developed a full-stack AI-powered resume builder that helps users create ATS-friendly resumes increasing their application success rate.",
     tags: [
       {
-        name: "prisma",
+        name: "strapi",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "verceldb",
         color: "green-text-gradient",
       },
       {
-        name: "reactleaflet",
+        name: "vite",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: resume_builder,
+    source_code_link: "https://github.com/Divyansh10Sharma/Resume-Builder.git",
   },
 ];
 
