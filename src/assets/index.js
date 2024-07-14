@@ -30,7 +30,7 @@ import carrent from "./carrent.png";
 import threads from "./threads.png";
 import chatz from "./chatz.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import resume_builder from "./resume_builder.png";
 
 export {
   logo,
@@ -61,5 +61,5 @@ export {
   chatz,
   carrent,
   jobit,
-  tripguide,
+  resume_builder,
 };
