@@ -3,13 +3,13 @@ import {
   backend,
   creator,
   web,
-  // javascript,
-  // typescript,
-  // html,
-  // css,
-  // reactjs,
-  // redux,
-  // tailwind,
+  javascript,
+  typescript,
+  html,
+  css,
+  reactjs,
+  redux,
+  tailwind,
   nodejs,
   mongodb,
   git,
@@ -84,6 +84,10 @@ const technologies = [
   {
     name: "docker",
     icon: docker,
+  },
+  {
+    name: "html",
+    icon: html,
   },
 ];
 
