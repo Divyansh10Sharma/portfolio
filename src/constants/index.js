@@ -24,6 +24,9 @@ import {
   resume_builder,
   threejs,
   chatz,
+  aditya,
+  disha,
+  dhara
 } from "../assets";
 
 export const navLinks = [
@@ -130,27 +133,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Divyansh proved me wrong.",
+      "Divyansh comes up with quick solutions to complex problems and then optimize it further efficiently.",
     name: "Disha Goel",
     designation: "Data Analyst",
-    company: "",
-    image: "",
+    company: "Accenture",
+    image: disha,
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Divyansh does.",
-    name: "Nishita Jagdale",
-    designation: "Web Developer",
-    company: "",
-    image: "",
+    name: "Aditya Sharma",
+    designation: "Software Engineer",
+    company: "Matrack Inc.",
+    image: aditya,
   },
   {
     testimonial:
-      "After Divyansh optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Aditya Sharma",
-    designation: "Web Developer",
-    company: "",
-    image: "",
+      "Divyansh is easy to work with and he always completes every single project before the deadline.",
+    name: "Dhara SD",
+    designation: "Sr. Data Analyst",
+    company: "Accenture",
+    image: dhara,
   },
 ];
 
