@@ -15,6 +15,7 @@ import html from "./tech/html.png";
 import css from "./tech/css.png";
 import javascript from "./tech/javascript.png";
 import reactjs from "./tech/reactjs.png";
+import express from "./tech/express.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -32,6 +33,10 @@ import threads from "./threads.png";
 import chatz from "./chatz.png";
 import jobit from "./jobit.png";
 import resume_builder from "./resume_builder.png";
+
+import disha from "./people/disha.png";
+import dhara from "./people/dhara.png";
+import aditya from "./people/aditya.png";
 
 export {
   logo,
@@ -51,6 +56,7 @@ export {
   javascript,
   css,
   reactjs,
+  express,
   redux,
   tailwind,
   typescript,
@@ -63,4 +69,7 @@ export {
   carrent,
   jobit,
   resume_builder,
+  aditya,
+  disha,
+  dhara
 };
