@@ -180,7 +180,7 @@ const projects = [
     source_code_link: "https://github.com/Divyansh10Sharma/Threads_Clone.git",
   },
   {
-    name: "Chatz",
+    name: "Frencie",
     description:
       "A real time web confrencing application allowing users to connect and chat live on video calls and view old video call recordings from around the world.",
     tags: [
