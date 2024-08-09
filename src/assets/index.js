@@ -30,7 +30,7 @@ import codsoft from "./company/codsoft.png";
 
 import carrent from "./carrent.png";
 import threads from "./threads.png";
-import chatz from "./chatz.png";
+import frencie from "./frencie.png";
 import jobit from "./jobit.png";
 import resume_builder from "./resume_builder.png";
 
@@ -65,7 +65,7 @@ export {
   ibm,
   codsoft,
   threads,
-  chatz,
+  frencie,
   carrent,
   jobit,
   resume_builder,
