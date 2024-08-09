@@ -198,7 +198,7 @@ const projects = [
       },
     ],
     image: frencie,
-    source_code_link: "https://github.com/Divyansh10Sharma/.git",
+    source_code_link: "https://github.com/Divyansh10Sharma/frencie.git",
   },
   {
     name: "Resume Builder",
