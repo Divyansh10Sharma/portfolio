@@ -23,7 +23,7 @@ import {
   jobit,
   resume_builder,
   threejs,
-  chatz,
+  frencie,
   aditya,
   disha,
   dhara
@@ -182,23 +182,23 @@ const projects = [
   {
     name: "Chatz",
     description:
-      "A basic web application that allows users to have a real-time conversation through texts with a beautiful modern design.",
+      "A real time web confrencing application allowing users to connect and chat live on video calls and view old video call recordings from around the world.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "stream",
         color: "green-text-gradient",
       },
       {
-        name: "dasyUI",
+        name: "clerk",
         color: "pink-text-gradient",
       },
     ],
-    image: chatz,
-    source_code_link: "https://github.com/Divyansh10Sharma/Chat_App.git",
+    image: frencie,
+    source_code_link: "https://github.com/Divyansh10Sharma/.git",
   },
   {
     name: "Resume Builder",
