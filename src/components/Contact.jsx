@@ -42,7 +42,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Divyansh Sharma",
           from_email: form.email,
-          to_email: "duvyansh.convivial@gmail.com",
+          to_email: "divyansh.convivial@gmail.com",
           message: form.message,
         },
         'jhdI1KuVD91ZXHEjK'
