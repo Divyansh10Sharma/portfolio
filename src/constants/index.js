@@ -18,6 +18,7 @@ import {
   analysed,
   ibm,
   codsoft,
+  trainrex,
   threads,
   carrent,
   jobit,
@@ -92,27 +93,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: "AI ML Trainee",
-    company_name: "IBM",
-    icon: ibm,
-    iconBg: "#383E56",
-    date: "Aug 2022 - Sep 2022",
+    title: "Full Stack Engineer",
+    company_name: "Train Rex",
+    icon: trainrex,
+    iconBg: "#9ebc80",
+    date: "Aug 2024 - Current",
     points: [
-      "Explored and understood the concept of Artificial Intelligence and Machine Learning in the real world.",
-      "Discovered how AI can be implemented in the currently available technologies and can be improved.",
-      "Did a hands on project which included the concepts of AI ML, Python and Web Development.",
-    ],
-  },
-  {
-    title: "Web Development Intern",
-    company_name: "CodSoft",
-    icon: codsoft,
-    iconBg: "#E6DEDD",
-    date: "Aug 2023 - Sep 2023",
-    points: [
-      "Used ReactJS, ThreeJS and TailWindCSS to develop modern Portfolio website.",
-      "Used ThreeJS, React Three Fiber and Framer Motion library to implement 3D models, 3D graphics and animations to the website.",
-      "Explored the way to host a website and  hosted the website on Render.",
+      "Built a React Native fitness app with AI-powered diet planning and real-time group chat, scaling to 5K+ downloads and increasing engagement by 67%.",
+      "Designed and implemented a personalized nutrition engine that generated goal-based weekly meal plans using macro calculations and AI validation, reducing operations execution cost by 50%.",
+      "Designed in-app team system supporting 25+ participants per group with meal tracking, workout uploads, and messaging, improving program completion rates.",
+      "Engineered full-stack fitness SaaS using React, Flask, Firebase, and Razorpay, onboarding 80+ gyms and processing ₹70K+ monthly transactions.",
+      "Developed CRM managing 500+ memberships across 30+ locations, reducing admin costs by 60% and increasing revenue by 10%.",
+      "Drove 120% organic growth through SEO and ASO optimization, reaching 2K+ monthly active users.",
     ],
   },
   {
@@ -126,6 +118,18 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Decreased the workload by 20% by suggesting and implementing an optimized approach to a time consuming problem.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Web Development Intern",
+    company_name: "CodSoft",
+    icon: codsoft,
+    iconBg: "#E6DEDD",
+    date: "Aug 2023 - Sep 2023",
+    points: [
+      "Used ReactJS, ThreeJS and TailWindCSS to develop modern Portfolio website.",
+      "Used ThreeJS, React Three Fiber and Framer Motion library to implement 3D models, 3D graphics and animations to the website.",
+      "Explored the way to host a website and  hosted the website on Render.",
     ],
   },
 ];
