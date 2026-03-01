@@ -27,6 +27,7 @@ import threejs from "./tech/threejs.svg";
 import analysed from "./company/analysed.png";
 import ibm from "./company/ibm.png";
 import codsoft from "./company/codsoft.png";
+import trainrex from './company/trainrex.png';
 
 import carrent from "./carrent.png";
 import threads from "./threads.png";
@@ -64,6 +65,7 @@ export {
   analysed,
   ibm,
   codsoft,
+  trainrex,
   threads,
   frencie,
   carrent,
